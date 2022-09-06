@@ -15,6 +15,7 @@ type example struct {
 var examples = []example{
 	{ID: 1, Title: "Example 1"},
 	{ID: 2, Title: "Example 2"},
+	{ID: 3, Title: "Example 3"},
 }
 
 func getExamples(c *gin.Context) {
