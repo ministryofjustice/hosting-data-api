@@ -11,9 +11,9 @@ RUN go mod download && go mod verify
 COPY . .
 RUN go build -v -o /usr/local/bin/app ./...
 
-RUN mkdir -p /opt/your-folder && \
+RUN mkdir -p /usr/src/app && \
     adduser --disabled-password nonRootUser -u 1001 && \
-    chown -R nonRootUser:nonRootUser /opt/your-folder
+    chown -R nonRootUser:nonRootUser /usr/src/app
 
 USER 1001
 
