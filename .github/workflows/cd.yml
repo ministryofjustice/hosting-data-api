@@ -1,0 +1,34 @@
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: docker build -t hosting-data-api .
+      - uses: jwalton/gh-ecr-push@v1
+        id: ecr
+        with:
+          access-key-id: ${{ secrets.ECR_AWS_ACCESS_KEY_ID }}
+          secret-access-key: ${{ secrets.ECR_AWS_SECRET_ACCESS_KEY }}
+          region: eu-west-2
+          local-image: hosting-data-api
+          image: ${{ secrets.ECR_NAME }}:${{ github.sha }}
+      - run: export IMAGE_TAG=${{ github.sha }} && cat deployments/templates/deployment.yml | envsubst > deployments/deployment.yml
+        env:
+          ECR_URL: ${{ secrets.ECR_URL }}
+      - name: Authenticate to the cluster
+        env:
+          KUBE_CLUSTER: ${{ secrets.KUBE_CLUSTER }}
+        run: |
+          echo "${{ secrets.KUBE_CERT }}" > ca.crt
+          kubectl config set-cluster ${KUBE_CLUSTER} --certificate-authority=./ca.crt --server=https://${KUBE_CLUSTER}
+          kubectl config set-credentials deploy-user --token=${{ secrets.KUBE_TOKEN }}
+          kubectl config set-context ${KUBE_CLUSTER} --cluster=${KUBE_CLUSTER} --user=deploy-user --namespace=${{ secrets.KUBE_NAMESPACE }}
+          kubectl config use-context ${KUBE_CLUSTER}
+      - name: Deploy the latest Docker image
+        run: kubectl -n ${KUBE_NAMESPACE} apply -f deployments/
