@@ -13,7 +13,7 @@ spec:
         app: api
     spec:
       containers:
-      - name: api
-        image: ${ECR_URL}:${IMAGE_TAG}
-        ports:
-        - containerPort: 8080
+        - name: api
+          image: ${ECR_URL}:${IMAGE_TAG}
+          ports:
+            - containerPort: 8080
