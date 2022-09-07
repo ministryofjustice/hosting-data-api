@@ -2,8 +2,8 @@ package tenants
 
 import (
 	"encoding/json"
-	"io/ioutil"
 	"net/http"
+	"os"
 
 	"github.com/gin-gonic/gin"
 )
@@ -18,7 +18,7 @@ type tenant struct {
 var tenants = []tenant{}
 
 func (h handler) ListTenants(c *gin.Context) {
-	var file, _ = ioutil.ReadFile("./data/aws/accounts.json")
+	var file, _ = os.ReadFile("./data/aws/accounts.json")
 	_ = json.Unmarshal([]byte(file), &tenants)
 
 	c.JSON(http.StatusOK, tenants)
