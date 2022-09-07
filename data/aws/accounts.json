@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "001780581745",
+    "title": "MOJ LPA dev",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2019/09/30 23:59:59"
+  },
+  {
+    "id": "003430027717",
+    "title": "oasys-development",
+    "billing_start": "2022/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "006231045038",
+    "title": "oasys-production",
+    "billing_start": "2022/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "010587221707",
+    "title": "HMPPS Delius Pre Production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "013163512034",
+    "title": "LAA Test",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "016649511486",
+    "title": "MoJ Crime Billing Online",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2019/12/31 23:59:59"
+  },
+  {
+    "id": "035941410605",
+    "title": "HMPPS Co-Financing Organisation",
+    "billing_start": "2019/05/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "037161842252",
+    "title": "MOJ Official (Production)",
+    "billing_start": "2020/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "042130406152",
+    "title": "analytical-platform-management-production",
+    "billing_start": "2021/01/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "050243167760",
+    "title": "HMPPS Probation Production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "050256574573",
+    "title": "MOJ LPA Development",
+    "billing_start": "2019/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "053556912568",
+    "title": "Youth Justice Framework Pre-Prod",
+    "billing_start": "2020/01/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "053800769812",
+    "title": "remote-supervision-production",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "054841906872",
+    "title": "bench-production",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2021/11/30 23:59:59"
+  },
+  {
+    "id": "066012302209",
+    "title": "Youth Justice Framework Prod",
+    "billing_start": "2019/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "068084030754",
+    "title": "MOJ Official (Development)",
+    "billing_start": "2020/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "075585660276",
+    "title": "ppud-development",
+    "billing_start": "2022/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "077643444046",
+    "title": "HMPPS Engineering Production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "077848213362",
+    "title": "heater-development",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2021/11/30 23:59:59"
+  },
+  {
+    "id": "083957762049",
+    "title": "example-development",
+    "billing_start": "2022/05/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "084676096325",
+    "title": "Cloud Networks PSN",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/05/31 23:59:59"
+  },
+  {
+    "id": "097456858629",
+    "title": "HMPPS CR Jitbit production",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "108839434327",
+    "title": "bichard7-sandbox-b",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "110958189132",
+    "title": "Security Engineering",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/05/31 23:59:59"
+  },
+  {
+    "id": "113611017716",
+    "title": "TP-ALB",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2021/05/31 23:59:59"
+  },
+  {
+    "id": "130847504577",
+    "title": "HMPPS Delius Training Test",
+    "billing_start": "2019/03/01 00:00:00",
+    "billing_end": "2022/06/30 23:59:59"
+  },
+  {
+    "id": "130975965028",
+    "title": "HMPPS Delius Performance",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/06/30 23:59:59"
+  },
+  {
+    "id": "132044171362",
+    "title": "Electronic Monitoring Identity & Access Management",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "132068124730",
+    "title": "OPG Sirius Backup",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "135517888505",
+    "title": "HMPPS Security POC",
+    "billing_start": "2018/07/01 00:00:00",
+    "billing_end": "2022/05/31 23:59:59"
+  },
+  {
+    "id": "140455166311",
+    "title": "LAA UAT",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "143664002102",
+    "title": "performance-hub-production",
+    "billing_start": "2021/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "145445613877",
+    "title": "nomis-preproduction",
+    "billing_start": "2022/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "154127996468",
+    "title": "poc-referrals-warehouse-development",
+    "billing_start": "2022/08/01 00:00:00",
+    "billing_end": "2022/08/31 23:59:59"
+  },
+  {
+    "id": "172219029581",
+    "title": "HMPPS CR Jira production",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "183554782509",
+    "title": "Cloud Platform Transit Gateways",
+    "billing_start": "2020/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "184596225480",
+    "title": "platforms-non-production",
+    "billing_start": "2018/09/01 00:00:00",
+    "billing_end": "2022/04/30 23:59:59"
+  },
+  {
+    "id": "187347106661",
+    "title": "Electronic Monitoring Monitoring&Mapping Test",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "187364338251",
+    "title": "justice-on-the-web-sandbox",
+    "billing_start": "2020/12/01 00:00:00",
+    "billing_end": "2021/10/31 23:59:59"
+  },
+  {
+    "id": "189157455002",
+    "title": "Analytical Platform Data Engineering",
+    "billing_start": "2020/05/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "200007410142",
+    "title": "Manchester Traffic Dev",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "205048117103",
+    "title": "HMPPS Delius Stage",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "207640118376",
+    "title": "TP-HMCTS",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "208632142291",
+    "title": "MOJ Official (Network Operations Centre)",
+    "billing_start": "2021/05/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "220613066128",
+    "title": "cloud-platforms-non-production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2018/06/30 23:59:59"
+  },
+  {
+    "id": "223349214321",
+    "title": "MoJ Info Services Dev",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "236861075084",
+    "title": "cooker-development",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "237599693891",
+    "title": "HMPPS Victim Case Management System Test",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "238302996107",
+    "title": "OPG Backups",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "241428582858",
+    "title": "HMPPS Delius PO Test",
+    "billing_start": "2020/09/01 00:00:00",
+    "billing_end": "2022/04/30 23:59:59"
+  },
+  {
+    "id": "245753150946",
+    "title": "organisation-security",
+    "billing_start": "2020/12/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "248217651788",
+    "title": "LAA CloudTrail",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "248804316466",
+    "title": "OPG Digi Deps Dev",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "257452857869",
+    "title": "xhibit-portal-preproduction",
+    "billing_start": "2022/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "258361008057",
+    "title": "bichard7-sandbox-shared",
+    "billing_start": "2020/12/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "260321003539",
+    "title": "Electronic Monitoring Tagging Hardware Pre-Prod",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "266175825719",
+    "title": "data-and-insight-wepi-sandbox",
+    "billing_start": "2022/08/01 00:00:00",
+    "billing_end": "2022/08/31 23:59:59"
+  },
+  {
+    "id": "267053793615",
+    "title": "core-vpc-sandbox",
+    "billing_start": "2021/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "272983201692",
+    "title": "nomis-production",
+    "billing_start": "2022/04/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "276038508461",
+    "title": "xhibit-portal-development",
+    "billing_start": "2021/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "276155373521",
+    "title": "refer-and-monitor-development",
+    "billing_start": "2022/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "276162635662",
+    "title": "data-and-insight-wepi-development",
+    "billing_start": "2022/08/01 00:00:00",
+    "billing_end": "2022/08/31 23:59:59"
+  },
+  {
+    "id": "276688913548",
+    "title": "Electronic Monitoring Tagging Hardware Test",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "278663825216",
+    "title": "core-vpc-production",
+    "billing_start": "2020/12/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "283184878391",
+    "title": "remote-supervision-non-production",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "288342028542",
+    "title": "opg-sirius-dev",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "289153439536",
+    "title": "data-and-insights-wepi-development",
+    "billing_start": "2022/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "295814833350",
+    "title": "MOJ Master",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "301496033642",
+    "title": "Delius New Tech non-prod",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/05/31 23:59:59"
+  },
+  {
+    "id": "311462405659",
+    "title": "MoJ OPG Management",
+    "billing_start": "2018/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "312423030077",
+    "title": "Analytical Platform Production",
+    "billing_start": "2019/05/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "313268395529",
+    "title": "Electronic Monitoring Case Management dev",
+    "billing_start": "2022/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "313879017102",
+    "title": "OPG Modernising LPA Production",
+    "billing_start": "2018/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "322518575883",
+    "title": "performance-hub-preproduction",
+    "billing_start": "2021/05/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "324485588330",
+    "title": "Public Sector Prison Industries",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "327850556621",
+    "title": "nomis-development",
+    "billing_start": "2022/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "330914586320",
+    "title": "HMPPS Delius Training",
+    "billing_start": "2019/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "335823981503",
+    "title": "Analytical Platform Landing",
+    "billing_start": "2019/04/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "348456244381",
+    "title": "sprinkler-development",
+    "billing_start": "2021/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "349354156492",
+    "title": "HMPPS Delius MIS Test",
+    "billing_start": "2019/03/01 00:00:00",
+    "billing_end": "2022/08/31 23:59:59"
+  },
+  {
+    "id": "350033561236",
+    "title": "Patterns",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/05/31 23:59:59"
+  },
+  {
+    "id": "350200336796",
+    "title": "HMPPS Security Audit",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/05/31 23:59:59"
+  },
+  {
+    "id": "350264416860",
+    "title": "Electronic Monitoring Tagging Hardware Prod",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "356676313489",
+    "title": "VCMS non-prod",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "357766484745",
+    "title": "opg-shared",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "365173909934",
+    "title": "refer-and-monitor-development",
+    "billing_start": "2022/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "367815980639",
+    "title": "OPG Use My LPA Development",
+    "billing_start": "2019/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "374269020027",
+    "title": "core-shared-services",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "376548743807",
+    "title": "Electronic Monitoring Acquisitive Crime Production",
+    "billing_start": "2021/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "376684661125",
+    "title": "Electronic Monitoring Acquisitive Crime Dev",
+    "billing_start": "2021/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "377957503799",
+    "title": "HMPPS CR Jitbit non-production",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "407166321066",
+    "title": "Electronic Monitoring Acquisitive Crime Preprod",
+    "billing_start": "2021/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "411213865113",
+    "title": "LAA Development",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "418216798584",
+    "title": "Cloud Platform Ephemeral Test",
+    "billing_start": "2020/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "429061350814",
+    "title": "HMPPS Dev",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "431912413968",
+    "title": "Strategic Partner Gateway Non Production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/05/31 23:59:59"
+  },
+  {
+    "id": "434401102446",
+    "title": "HMPPS Victim Case Management System Integration",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/08/31 23:59:59"
+  },
+  {
+    "id": "437261969723",
+    "title": "Electronic Monitoring Shared Networking (non-prod)",
+    "billing_start": "2019/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "439237763202",
+    "title": "bichard7-test-current",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "441527764669",
+    "title": "LAA Production Support",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2019/02/28 23:59:59"
+  },
+  {
+    "id": "450842467489",
+    "title": "oasys-preproduction",
+    "billing_start": "2022/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "453136268281",
+    "title": "core-vpc-preproduction",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "454061736096",
+    "title": "bichard7-sandbox-a",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "454262938596",
+    "title": "OPG Digi Deps Preprod",
+    "billing_start": "2019/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "456360603023",
+    "title": "cooker-production",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2021/11/30 23:59:59"
+  },
+  {
+    "id": "459794602321",
+    "title": "NOMS API",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/04/30 23:59:59"
+  },
+  {
+    "id": "461000947556",
+    "title": "Ministry of Justice Courtfinder Prod",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "473630360727",
+    "title": "MOJ Official (Pre-Production)",
+    "billing_start": "2020/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "479759138745",
+    "title": "HMPPS Delius MIS non prod",
+    "billing_start": "2018/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "484221692666",
+    "title": "LAA Staging",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "486486277846",
+    "title": "organisation-logging",
+    "billing_start": "2020/12/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "486893912453",
+    "title": "HMPPS Victim Case Management System Pre Production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "492687888235",
+    "title": "MoJ OPG Sirius Preproduction",
+    "billing_start": "2018/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "497078235711",
+    "title": "bichard7-shared",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "499929555293",
+    "title": "Electronic Monitoring Acquisitive Crime Test",
+    "billing_start": "2021/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "505974653433",
+    "title": "core-network-services",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "510715673350",
+    "title": "bench-development",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2021/11/30 23:59:59"
+  },
+  {
+    "id": "515688267891",
+    "title": "OPG Digi Deps Prod",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "525294151996",
+    "title": "Analytical Platform Development",
+    "billing_start": "2018/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "528297466515",
+    "title": "Electronic Monitoring Monitoring&Mapping Dev",
+    "billing_start": "2019/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "528315314323",
+    "title": "Youth Justice Framework Dev",
+    "billing_start": "2019/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "529698415668",
+    "title": "HMPPS CR Jira non-production",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "532211371847",
+    "title": "threat-and-vulnerability-mgmt-development",
+    "billing_start": "2022/05/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "534609872573",
+    "title": "refer-monitor-development",
+    "billing_start": "2022/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "540070264006",
+    "title": "MoJ OPG DigiCop Preproduction",
+    "billing_start": "2018/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "542657768084",
+    "title": "HMPPS Check My Diary Prod",
+    "billing_start": "2018/08/01 00:00:00",
+    "billing_end": "2022/03/31 23:59:59"
+  },
+  {
+    "id": "546088120047",
+    "title": "oasys-test",
+    "billing_start": "2022/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "546225096470",
+    "title": "bichard7-dev-next",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2021/09/30 23:59:59"
+  },
+  {
+    "id": "546353946052",
+    "title": "CICA Shared Services",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "550790013665",
+    "title": "OPG LPA Production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "552036846659",
+    "title": "Electronic Monitoring Protective Monitoring",
+    "billing_start": "2020/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "563179612266",
+    "title": "AWS LAA",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/04/30 23:59:59"
+  },
+  {
+    "id": "563502482979",
+    "title": "Alfresco non-prod",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "566373822119",
+    "title": "tariff-development",
+    "billing_start": "2021/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "570551521311",
+    "title": "Probation",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "573115265413",
+    "title": "apex-development",
+    "billing_start": "2022/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "574159866058",
+    "title": "HMPPS Victim Case Management System Stage",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/06/30 23:59:59"
+  },
+  {
+    "id": "574983609246",
+    "title": "opg-refund-production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "581823340673",
+    "title": "bichard7-test-next",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "581911240951",
+    "title": "Network Architecture",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "583321680329",
+    "title": "MoJ-Security",
+    "billing_start": "2018/09/01 00:00:00",
+    "billing_end": "2021/03/31 23:59:59"
+  },
+  {
+    "id": "586390596930",
+    "title": "Parliamentary Questions",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2020/12/31 23:59:59"
+  },
+  {
+    "id": "589133037702",
+    "title": "HMPPS PROD",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "589450497571",
+    "title": "CICA Development",
+    "billing_start": "2020/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "593291632749",
+    "title": "MoJ Analytics Platform",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "597470279442",
+    "title": "CICA Production",
+    "billing_start": "2020/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "597593175223",
+    "title": "Youth Justice Framework Juniper",
+    "billing_start": "2020/01/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "608897814635",
+    "title": "equip-development",
+    "billing_start": "2022/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "610306528329",
+    "title": "Security Logging Platform",
+    "billing_start": "2020/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "611464407009",
+    "title": "Security Operations Pre Production",
+    "billing_start": "2018/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "612659970365",
+    "title": "nomis-test",
+    "billing_start": "2021/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "613903586696",
+    "title": "tacticalproducts",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "621815915101",
+    "title": "CICA UAT",
+    "billing_start": "2020/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "624384546187",
+    "title": "core-logging",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "624700428027",
+    "title": "Workplace Tech Proof Of Concept Development",
+    "billing_start": "2018/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "625541056185",
+    "title": "MOJ Official (Public Key Infrastructure Dev)",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "627373361525",
+    "title": "MoJ CLA",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2021/12/31 23:59:59"
+  },
+  {
+    "id": "628098804497",
+    "title": "Electronic Monitoring Monitoring&Mapping Prod",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "631181914621",
+    "title": "MoJ OPG Identity",
+    "billing_start": "2018/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "632865350611",
+    "title": "Electronic Monitoring Infrastructure Dev",
+    "billing_start": "2020/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "645753425509",
+    "title": "HMPPS Delius PO Test 2",
+    "billing_start": "2019/03/01 00:00:00",
+    "billing_end": "2022/06/30 23:59:59"
+  },
+  {
+    "id": "647473535058",
+    "title": "equip-production",
+    "billing_start": "2022/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "649098267436",
+    "title": "OPG Sirius Production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "653761790766",
+    "title": "OPG Modernising LPA Development",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "660017192602",
+    "title": "MoJ OPG Identity",
+    "billing_start": "2018/09/01 00:00:00",
+    "billing_end": "2020/10/31 23:59:59"
+  },
+  {
+    "id": "673920839910",
+    "title": "Youth Justice Framework Eng Tools",
+    "billing_start": "2019/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "674345106521",
+    "title": "xhibit-portal-production",
+    "billing_start": "2021/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "677012035582",
+    "title": "HMPPS Performance Hub",
+    "billing_start": "2019/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "679638075911",
+    "title": "MoJ OPG Shared Development",
+    "billing_start": "2018/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "683290208331",
+    "title": "MOJ Official (Shared Services)",
+    "billing_start": "2020/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "684601610791",
+    "title": "Youth Justice Framework Management",
+    "billing_start": "2019/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "684969100054",
+    "title": "Analytical Platform Data Engineering Sandbox",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "690083044361",
+    "title": "OPG Use My LPA Production",
+    "billing_start": "2019/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "695031982027",
+    "title": "heater-production",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2021/11/30 23:59:59"
+  },
+  {
+    "id": "705467933182",
+    "title": "MoJ OPG DigiCop Development",
+    "billing_start": "2018/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "711258951176",
+    "title": "HMPPS Victim Case Management System Performance",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/06/30 23:59:59"
+  },
+  {
+    "id": "715475543920",
+    "title": "MOJ Intranet",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2021/01/31 23:59:59"
+  },
+  {
+    "id": "716683748953",
+    "title": "HMPPS Delius PO Test 1",
+    "billing_start": "2019/03/01 00:00:00",
+    "billing_end": "2022/05/31 23:59:59"
+  },
+  {
+    "id": "722573683776",
+    "title": "Get help with child arrangements",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2021/03/31 23:59:59"
+  },
+  {
+    "id": "723123699647",
+    "title": "Delius Core non-prod",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "728765553488",
+    "title": "HMPPS Delius Test",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "738311358426",
+    "title": "Security Operations Development",
+    "billing_start": "2018/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "744728743481",
+    "title": "bichard7-sandbox-c",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "744927879746",
+    "title": "core-security",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "752685163735",
+    "title": "Electronic Monitoring Case Management prod",
+    "billing_start": "2022/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "754037799336",
+    "title": "MoJ Security",
+    "billing_start": "2018/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "754256621582",
+    "title": "Cloud Platform",
+    "billing_start": "2018/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "754762366536",
+    "title": "Security Operations Production",
+    "billing_start": "2018/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "763252494486",
+    "title": "shared-services-dev",
+    "billing_start": "2020/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "764856231715",
+    "title": "MOJ OPG LPA Refunds Preproduction",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "766455809178",
+    "title": "HMPPS NOMIS Dev",
+    "billing_start": "2019/10/01 00:00:00",
+    "billing_end": "2020/08/31 23:59:59"
+  },
+  {
+    "id": "771283872747",
+    "title": "digital-prison-reporting-development",
+    "billing_start": "2022/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "784489036757",
+    "title": "bichard7-dev-current",
+    "billing_start": "2020/11/01 00:00:00",
+    "billing_end": "2021/09/30 23:59:59"
+  },
+  {
+    "id": "785119777382",
+    "title": "sprinkler-production",
+    "billing_start": "2021/02/01 00:00:00",
+    "billing_end": "2021/11/30 23:59:59"
+  },
+  {
+    "id": "787475932003",
+    "title": "HMPPS CR Unpaid Work production",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "792093328875",
+    "title": "OPG Modernising LPA PreProduction",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "794399914478",
+    "title": "core-vpc-test",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "794566286343",
+    "title": "Youth Justice Framework Monitoring",
+    "billing_start": "2020/01/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "803963757240",
+    "title": "analytical-platform-data-development",
+    "billing_start": "2021/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "805626386523",
+    "title": "MOJ OPG LPA Refunds Production",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "811982441201",
+    "title": "MoJ OPG Identity",
+    "billing_start": "2018/09/01 00:00:00",
+    "billing_end": "2020/10/31 23:59:59"
+  },
+  {
+    "id": "815798794642",
+    "title": "MoJ PeopleFinder",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2020/12/31 23:59:59"
+  },
+  {
+    "id": "817985104434",
+    "title": "ppud-production",
+    "billing_start": "2022/01/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "823824448821",
+    "title": "HMPPS Victim Case Management System Production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "824919949644",
+    "title": "Electronic Monitoring Shared Networking",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "825884098885",
+    "title": "Bichard7 2020 Prototype",
+    "billing_start": "2020/03/01 00:00:00",
+    "billing_end": "2021/05/31 23:59:59"
+  },
+  {
+    "id": "836052629367",
+    "title": "testing-test",
+    "billing_start": "2021/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "842522700642",
+    "title": "LAA Production",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "847208056990",
+    "title": "Legal Aid Agency",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "853737712964",
+    "title": "MOJ Official (Public Key Infrastructure)",
+    "billing_start": "2020/09/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "856879713508",
+    "title": "Youth Justice Framework Sandpit",
+    "billing_start": "2019/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "856908385113",
+    "title": "HMPPS Check My Diary Development",
+    "billing_start": "2018/08/01 00:00:00",
+    "billing_end": "2022/03/31 23:59:59"
+  },
+  {
+    "id": "858166118755",
+    "title": "Electronic Monitoring Case Management preprod",
+    "billing_start": "2022/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "862657391675",
+    "title": "ops-engineering-development",
+    "billing_start": "2021/05/01 00:00:00",
+    "billing_end": "2021/11/30 23:59:59"
+  },
+  {
+    "id": "864513598685",
+    "title": "core-vpc-non-live-data",
+    "billing_start": "2020/12/01 00:00:00",
+    "billing_end": "2021/03/31 23:59:59"
+  },
+  {
+    "id": "871220710208",
+    "title": "threat-and-vulnerability-mgmt-production",
+    "billing_start": "2022/05/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "880656497252",
+    "title": "MoJ Digital Services",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "888228022356",
+    "title": "OPG Use My LPA Preproduction",
+    "billing_start": "2019/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "889153769838",
+    "title": "MoJ Billing Management",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2021/03/31 23:59:59"
+  },
+  {
+    "id": "895523100917",
+    "title": "Probation Management non-prod",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "898412348835",
+    "title": "Electronic Monitoring Shared Logging",
+    "billing_start": "2019/10/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "902837325998",
+    "title": "LAA Shared services",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "903817190142",
+    "title": "HMCTS Fee Remissions",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "926803513772",
+    "title": "Integration Test Env",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2020/01/31 23:59:59"
+  },
+  {
+    "id": "933407297692",
+    "title": "HMPPS Management",
+    "billing_start": "2019/02/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "933639921819",
+    "title": "MoJ OPG DigiCop Production",
+    "billing_start": "2018/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "934014432467",
+    "title": "dex-ta-development",
+    "billing_start": "2021/12/01 00:00:00",
+    "billing_end": "2022/03/31 23:59:59"
+  },
+  {
+    "id": "936779158973",
+    "title": "MOJ OPG LPA Refunds Development",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "938841708445",
+    "title": "performance-hub-development",
+    "billing_start": "2021/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "946070829339",
+    "title": "Modernisation Platform",
+    "billing_start": "2020/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "947026515015",
+    "title": "Electronic Monitoring Monitoring&Mapping Pre-Prod",
+    "billing_start": "2019/08/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "960266627819",
+    "title": "Electronic Monitoring Archive & Query Service",
+    "billing_start": "2019/11/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "964150688482",
+    "title": "HMPPS CR Unpaid Work non-production",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "967617145656",
+    "title": "mi-platform-development",
+    "billing_start": "2021/12/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "980242665824",
+    "title": "MOJ OPG LPA Production",
+    "billing_start": "2019/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "980910170670",
+    "title": "WPTPOC",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "985226418918",
+    "title": "TP-HQ",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2021/05/31 23:59:59"
+  },
+  {
+    "id": "987830934591",
+    "title": "MOJ LPA Preproduction",
+    "billing_start": "2019/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "991589384446",
+    "title": "core-vpc-development",
+    "billing_start": "2021/03/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "995199299616",
+    "title": "MoJ OPG Sandbox",
+    "billing_start": "2018/06/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  },
+  {
+    "id": "997462338508",
+    "title": "MoJ OPG Shared Production",
+    "billing_start": "2018/07/01 00:00:00",
+    "billing_end": "2022/09/30 23:59:59"
+  }
+]

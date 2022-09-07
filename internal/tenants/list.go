@@ -1,39 +1,25 @@
 package tenants
 
 import (
+	"encoding/json"
+	"io/ioutil"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
 )
 
 type tenant struct {
-	ID    int    `json:"id"`
-	Title string `json:"title"`
+	ID               string `json:"id"`
+	Title            string `json:"title"`
+	BillingStartDate string `json:"billing_start"`
+	BillingEndDate   string `json:"billing_end"`
 }
 
-var tenants = []tenant{
-	{
-		ID:    1,
-		Title: "Tenant 1",
-	},
-	{
-		ID:    2,
-		Title: "Tenant 2",
-	},
-	{
-		ID:    3,
-		Title: "Tenant 3",
-	},
-	{
-		ID:    4,
-		Title: "Tenant 4",
-	},
-	{
-		ID:    5,
-		Title: "Tenant 5",
-	},
-}
+var tenants = []tenant{}
 
 func (h handler) ListTenants(c *gin.Context) {
+	var file, _ = ioutil.ReadFile("./data/aws/accounts.json")
+	_ = json.Unmarshal([]byte(file), &tenants)
+
 	c.JSON(http.StatusOK, tenants)
 }
