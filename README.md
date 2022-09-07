@@ -4,6 +4,17 @@
 
 This repository contains the code to run the Hosting data API, which powers [Hosting data](https://hosting-data.apps.live.cloud-platform.service.justice.gov.uk/).
 
+## Requirements
+
+This repository makes heavy use of preprocessing CSV data (such as AWS Cost and Usage reports), which generate JSON files to use as static data in the API.
+
+You will need to install:
+
+- [csvkit](https://formulae.brew.sh/formula/csvkit#default)
+- [aws-cli](https://formulae.brew.sh/formula/awscli#default)
+
+You will also need read-only access to the [AWS root account](https://github.com/ministryofjustice/aws-root-account) to fetch data from AWS Cost and Usage reports.
+
 ## Running this locally
 
 To run this locally, build the Docker image and run it:
