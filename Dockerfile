@@ -1,4 +1,4 @@
-FROM golang:1.19.1-alpine3.15
+FROM golang:1.19.2-alpine3.15
 
 ENV GIN_MODE=release
 ENV PORT=8080
